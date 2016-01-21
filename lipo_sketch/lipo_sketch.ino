@@ -1,5 +1,5 @@
 /*
- * Licensed under CC BY-SH by Johannes Vitt 2016
+ * Licensed under CC BY-SA by Johannes Vitt 2016
  * 
  * This programm measures the voltage of the cells of a 2S (two cells) lipo. 
  * Please be cautious while handling LiPos, they can explode or burn if not 
